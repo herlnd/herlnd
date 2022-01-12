@@ -1,6 +1,6 @@
-- 🗿👋 Hi, I’m @herlnd.
-- 🛠️ I’m interested in web devolpment, data analysis, crypto and 3D printing.
-- 📚 I’m currently learning all of the above.
+- 🗿👋 Hi, I’m H.
+- 🛠️ I’m interested in video games, web devolpment, crypto, digital art and 3D printing.
+- 📚 I’m currently learning web development starting with JavaScript.
 - 🤝 I’m looking to collaborate on web development projects linked to personal finance.
 
 Contact me:
