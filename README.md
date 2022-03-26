@@ -1,4 +1,4 @@
-# Hi, I'm H!. 🗿👋
+# Hi, I'm H! 🗿👋
 
 - 🛠️ I’m interested in video games, web devolpment, digital art and 3D printing.
 - 📚 I’m starting my journey to become a web developer.
