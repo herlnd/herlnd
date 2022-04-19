@@ -18,7 +18,7 @@ I worked as a resource manager in different areas such as research, the manufact
   <tr>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
+        src="./imgs/html.svg"
         width="48"
         height="48"
         alt="HTML"
@@ -27,7 +27,7 @@ I worked as a resource manager in different areas such as research, the manufact
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+        src="./imgs/css.svg"
         width="48"
         height="48"
         alt="CSS3"
@@ -36,7 +36,7 @@ I worked as a resource manager in different areas such as research, the manufact
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+        src="./imgs/javascript.svg"
         width="48"
         height="48"
         alt="JavaScript"
