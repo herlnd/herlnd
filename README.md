@@ -12,6 +12,39 @@ I worked as a resource manager in different areas such as research, the manufact
 - 🛠️ I’m interested in finance, video games, digital art and 3D printing.
 - 🤝 I’m looking to collaborate on web development projects linked to personal finance or video games.
 
+## Tech stack
+
+<table>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
+        width="48"
+        height="48"
+        alt="HTML"
+      />
+      <br/><strong>HTML5</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+        width="48"
+        height="48"
+        alt="CSS3"
+      />
+      <br/><strong>CSS3</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+        width="48"
+        height="48"
+        alt="JavaScript"
+      />
+      <br/><strong>JavaScript</strong>
+    </td>
+</table>
+
 ## Contact me
 
 💼 https://www.linkedin.com/in/herlnd/
