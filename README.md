@@ -45,7 +45,11 @@ I worked as a resource manager in different areas such as research, the manufact
     </td>
 </table>
 
-## Contact me
+## Some practice projects
+
+[Live Preview](https://github.com/herlnd/practice)
+
+### Contact me
 
 💼 https://www.linkedin.com/in/herlnd/
 🐦 https://twitter.com/herlnd
