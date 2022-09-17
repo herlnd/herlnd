@@ -12,7 +12,7 @@ I am an industrial engineer taking my first steps to becoming a software develop
 
 ### Contact me
 
-[💼 Linkedin](https://www.linkedin.com/in/herlnd/)&nbsp; &nbsp; |&nbsp; &nbsp; [🐦 Twitter](https://twitter.com/herlnd)
+[🌐 My Site](https://her.lnd.ar)&nbsp; &nbsp; |[💼 Linkedin](https://www.linkedin.com/in/herlnd/)&nbsp; &nbsp; |&nbsp; &nbsp; [🐦 Twitter](https://twitter.com/herlnd)
 
 <!---
 herlnd/herlnd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
