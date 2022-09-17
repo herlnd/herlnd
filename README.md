@@ -10,7 +10,7 @@ I am an industrial engineer taking my first steps to becoming a software develop
 - 🛠️ I’m interested in finance, video games, digital art and 3D printing.
 - 🤝 I’m looking to collaborate on web development projects linked to personal finance or video games.
 
-### Contact me
+### Reach me at:
 
 [🌐 My Site](https://her.lnd.ar)&nbsp; &nbsp; |&nbsp; &nbsp; [💼 Linkedin](https://www.linkedin.com/in/herlnd/)&nbsp; &nbsp; |&nbsp; &nbsp; [🐦 Twitter](https://twitter.com/herlnd)
 
