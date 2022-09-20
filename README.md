@@ -2,7 +2,9 @@
 
 ## About me
 
-I am an industrial engineer taking my first steps to becoming a software developer, specifically in the web development industry. I previously worked as a resource manager in different areas such as research, the manufacturing industry, the public sector, and non-profit organizations.
+I am a self-taught front-end developer with a good grasp of web fundamentals. I gather my experience through thorough study and personal projects. I like learning and applying the latest technologies to create clean, accessible, and performant UIs.
+
+As an industrial engineer, I have experience in analytical and project management roles working in different industries such as software, manufacturing, research, and non-profit.
 
 ### TL;DR
 
