@@ -2,17 +2,20 @@
 
 ## About me
 
-I am a self-taught front-end developer with a good grasp of web fundamentals. I gather my experience through thorough study and personal projects. I like learning and applying the latest technologies to create clean, accessible, and performant UIs.
+I am an industrial engineer studying to becoming a software developer, specifically in the web development industry. I have frontend skills including HTML, CSS, JavaScript, TypeScript, React, Next.js and Tailwind CSS. I'm currently learning about backend development starting with Node.js & Express and Databases (MongoDB and PostgresSQL).
 
-As an industrial engineer, I have experience in analytical and project management roles working in different industries such as software, manufacturing, research, and non-profit.
+As an industrial engineer I have experience in project/product management and analytical roles
+developed in various industries, including software companies, manufacturing, research, and nonprofit organizations.
 
-### TL;DR
+I have quite a few interests & hobbies, mainly economics & finance, 3D printing, video games, digital art, and sci-fi. And I'm always open to discussing and collaborating on projects related to them.
 
-- 📚 I’m starting my journey to become a web developer.
-- 🛠️ I’m interested in finance, video games, digital art and 3D printing.
+## TL;DR
+
+- 📚 I'm on my journey to becoming a web developer.
+- 🛠️ I’m interested in finance, video games, digital art, and 3D printing.
 - 🤝 I’m looking to collaborate on web development projects linked to personal finance or video games.
 
-### Reach me at:
+## Reach me at:
 
 [🌐 My Site](https://her.lnd.ar)&nbsp; &nbsp; |&nbsp; &nbsp; [💼 Linkedin](https://www.linkedin.com/in/herlnd/)&nbsp; &nbsp; |&nbsp; &nbsp; [🐦 Twitter](https://twitter.com/herlnd)
 
