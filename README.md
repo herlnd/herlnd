@@ -2,7 +2,7 @@
 
 ## About me
 
-I am an industrial engineer studying to becoming a software developer, specifically in the web development industry. I have frontend skills including HTML, CSS, JavaScript, TypeScript, React, Next.js and Tailwind CSS. I'm currently learning about backend development starting with Node.js & Express and Databases (MongoDB and PostgresSQL).
+I am an industrial engineer studying to become a software developer, specifically in the web development industry. I have frontend skills including HTML, CSS, JavaScript, TypeScript, React, Next.js and Tailwind CSS. I'm currently learning about backend development starting with Node.js & Express and Databases (MongoDB and PostgresSQL).
 
 As an industrial engineer I have experience in project/product management and analytical roles
 developed in various industries, including software companies, manufacturing, research, and nonprofit organizations.
