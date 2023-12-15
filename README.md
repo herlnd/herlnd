@@ -20,7 +20,7 @@ I have quite a few interests & hobbies, mainly economics & finance, 3D printing,
 
 ## Reach me at:
 
-[🌐 My Site](https://her.lnd.ar)&nbsp; &nbsp; |&nbsp; &nbsp; [💼 Linkedin](https://www.linkedin.com/in/herlnd/)&nbsp; &nbsp; |&nbsp; &nbsp; [🐦 Twitter](https://twitter.com/herlnd)
+[🌐 My Site](https://her.lnd.ar)&nbsp; &nbsp; |&nbsp; &nbsp; [💼 Linkedin](https://www.linkedin.com/in/herlnd/)&nbsp; &nbsp; |&nbsp; &nbsp; [X](https://twitter.com/herlnd)
 
 <!---
 herlnd/herlnd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
