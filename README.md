@@ -2,16 +2,19 @@
 
 ## About me
 
-I am an industrial engineer studying to become a software developer, specifically in the web development industry. I have frontend skills including HTML, CSS, JavaScript, TypeScript, React, Next.js and Tailwind CSS. I'm currently learning about backend development starting with Node.js & Express and Databases (MongoDB and PostgresSQL).
+I'm an Industrial Engineer with experience in analytical and project/product management roles in various industries, such as software, manufacturing, research, and non-profit. In them, I've gathered and polished my skills in leading teams, analyzing data, planning, and optimizing processes to achieve organizational goals efficiently.
 
-As an industrial engineer I have experience in project/product management and analytical roles
-developed in various industries, including software companies, manufacturing, research, and nonprofit organizations.
+I keep myself updated with global events, particularly in the business management and technology fields. I'm constantly learning about current technologies and I'm always on the lookout for new trends to gain insights.
+
+In line with my passion for technology, I have self-taught knowledge and hands-on experience in programming, specifically in web development, which helps me to develop a broader range of solutions.
+
+This combination of technical and management skills allows me to bridge the gap between technical and non-technical stakeholders to deliver successful projects or products.
 
 I have quite a few interests & hobbies, mainly economics & finance, 3D printing, video games, digital art, and sci-fi. And I'm always open to discussing and collaborating on projects related to them.
 
 ## TL;DR
 
-- 📚 I'm on my journey to becoming a web developer.
+- 📚 Here are my web development projects, I'm constantly learning new things to add to my skill set.
 - 🛠️ I’m interested in finance, video games, digital art, and 3D printing.
 - 🤝 I’m looking to collaborate on web development projects linked to personal finance or video games.
 
